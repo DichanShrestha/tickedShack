@@ -32,7 +32,7 @@ export default function Home() {
         </div>
       </div>
       <div className="flex justify-center">
-        <HitchedEvents className="absolute top-[470px] md:top-[650px] lg:top-[800px]"/>
+        <HitchedEvents className="absolute top-[470px] md:top-[650px] lg:top-[800px] z-50"/>
       </div>
 
       <div>
